@@ -1,0 +1,4 @@
+{
+  "watch": ["./", "./node_modules/**/*"],
+  "restartable": "r"
+}
